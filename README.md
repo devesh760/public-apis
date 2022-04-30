@@ -5,7 +5,7 @@
 
 <br />
 
-<div align="center">
+<div>
     <sup>Status</sup>
     <br />
     <a href="https://github.com/public-apis/public-apis#index">
